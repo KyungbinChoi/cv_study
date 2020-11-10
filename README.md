@@ -1,3 +1,4 @@
 # cv_study
+-- Computer vision // Deep learning study
 * Fashion mnist -- tutorial
 * Intel Image classification -- exploiting transfer learning
